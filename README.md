@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm **Ayaan**
 
-<!--
-**aynkhn/aynkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **student** and **developer** passionate about creating tools that make a real-world impact — from **web tools** to **efficient neural networks**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+- 👾 **Developing neural networks** to support **efficiency** studies  
+
+---
+
+## 🧠 What I'm Learning
+Currently exploring:
+- 🤖 **Machine learning algorithms**  
+- 💾 **Data analysis and manipulation**  
+- 🧮 **Calculus and Linear Algebra**
+
+---
+
+## 💡 Key Skills
+
+### 💻 Programming & Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+### 🤝 Collaboration
+🧭 **Management** • 🧑‍💻 **Leadership** • ⚡ **Mentorship**
+
+---
+
+## 🌐 Where to Find Me
+📁 [**aynkhn.github.io**](https://aynkhn.github.io)
