@@ -1,4 +1,4 @@
-# Hi, I'm **Ayaan**
+# 👋 Hi, I'm **Ayaan**
 
 🎓 I'm a **student** and **developer** passionate about creating tools that make a real-world impact — from **web tools** to **efficient neural networks**.
 
@@ -30,7 +30,7 @@ Currently exploring:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ### 🤝 Collaboration
-🧭 **Management** • 🧑‍💻 **Leadership** • ⚡ **Mentorship**
+🧑‍💻 **Leadership** • ⚡ **Mentorship**
 
 ---
 
