@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 What I'm Building
-- 👾 **Developing neural networks** to support **efficiency** studies  
+- 👾 **Developing neural networks** to support **efficiency** studies
+- 🌐 **Creating web tools** for **optimization** and **automation**
 
 ---
 
@@ -35,4 +36,5 @@ Currently exploring:
 ---
 
 ## 🌐 Where to Find Me
-📁 [**aynkhn.github.io**](https://aynkhn.github.io)
+- 📁 **Website**: [aynkhn.github.io](https://aynkhn.github.io)   
+- 💬 **Discord**: [@ayynkhn](https://discord.com/users/658324316462514189)
