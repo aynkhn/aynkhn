@@ -37,5 +37,4 @@ Currently exploring:
 ---
 
 ## Where to Find Me
-- **Website**: [aynkhn.github.io](https://aynkhn.github.io)   
-- **Discord**: [@ayynkhn](https://discord.com/users/658324316462514189)
+- **Website**: [aynkhn.com](https://aynkhn.com)  
